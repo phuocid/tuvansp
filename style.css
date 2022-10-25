@@ -676,7 +676,9 @@ p {
     margin: 0px auto;
   }
   .mk p{
+    width: 90%;
     font-size: 17px;
+    margin: 0px auto;
   }
   .content2-1 h2{
     font-size: 20px;
