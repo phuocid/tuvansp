@@ -1401,12 +1401,16 @@ p {
   }
   .topnav {
     display: flex;
+    margin-left: 70px;
   }
   .topnav a{
     margin-left: 3%;
   }
   .topnav img{
     margin-left: 10%;
+  }
+  .header-button{
+    margin-left: 32px;
   }
   .box-introduce {
     display: flex;
@@ -1688,7 +1692,7 @@ p {
     max-width: 100%;
   }
   .main-product {
-    max-width: 80%;
+    max-width: 90%;
     margin: 0px auto;
   }
   .main-img {
